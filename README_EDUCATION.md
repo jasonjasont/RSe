@@ -6,8 +6,7 @@ Ces scripts sont fournis à des fins **ÉDUCATIVES UNIQUEMENT** pour les étudia
 
 ## Prérequis pour les tests
 1. **Environnement de laboratoire isolé** (machines virtuelles, réseau isolé)
-2. **Autorisation écrite** pour tous les tests
-3. **Machine d'écoute** pour recevoir les connexions
+2. **Machine d'écoute** pour recevoir les connexions
 
 ## Configuration de l'environnement de test
 
